@@ -241,4 +241,4 @@ This repository serves as the official landing page for Psi. The software is dis
 **Get the most recent version of Psi today!**
 
 ---
-**Last updated:** 2026-09-15 22:02:37 UTC
+**Last updated:** 2026-09-16 01:14:36 UTC
